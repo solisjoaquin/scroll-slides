@@ -1,0 +1,28 @@
+@font-face {
+  font-family: clash display;
+  font-style: normal;
+  font-weight: 300;
+  src: local("Clash Display"),
+    url(https://cdn.fontshare.com/wf/VFMK2COV3DN37JR7JQ4CAOJPZ7KWKNY7/ODD5YJNDLHZZB2MIT3DPVH4EIHAMZ34D/BSY64LPTT3OPLVKAZKL3AHKRWZ3D74AC.woff2)
+      format("woff");
+}
+@font-face {
+  font-family: clash display;
+  font-style: normal;
+  font-weight: 500;
+  src: local("Clash Display"),
+    url(https://cdn.fontshare.com/wf/FPDAZ2S6SW4QMSRIIKNNGTPM6VIXYMKO/5HNPQ453FRLIQWV2FNOBUU3FKTDZQVSG/Z3MGHFHX6DCTLQ55LJYRJ5MDCZPMFZU6.woff2)
+      format("woff");
+}
+@font-face {
+  font-family: clash display;
+  font-style: normal;
+  font-weight: 700;
+  src: local("Clash Display"),
+    url(https://cdn.fontshare.com/wf/BFBSY7LX5W2U2EROCLVVTQP4VS7S4PC3/IIUX4FGTMD2LK2VWD3RVTAS4SSMUN7B5/53RZKGODFYDW3QHTIL7IPOWTBCSUEZK7.woff2)
+      format("woff");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
